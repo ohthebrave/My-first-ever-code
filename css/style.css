@@ -1,0 +1,31 @@
+h1 {
+ text-align: center;   
+}
+.imgMain {
+    width: 950px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p {
+    text-align: center;
+}
+ul {
+  list-style-type: none;
+}
+.menu li{
+  display: inline;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+}
+.menu {
+  text-align: center;
+}
+.contact {
+  background-color: red;
+  float: left;
+  text-align: center;
+  width: 25%;
+  }
+  
